@@ -1,7 +1,7 @@
 import User from './User';
 import Product from './Product';
 
-export default {
+export {
     User,
     Product
 }
